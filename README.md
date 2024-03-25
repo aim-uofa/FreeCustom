@@ -1,8 +1,8 @@
 # FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition
 
-[Ganggui Ding](dingangui.github.io)\*, Canyu Zhao\*, [Wen Wang](https://scholar.google.com/citations?user=1ks0R04AAAAJ&hl=zh-CN)\*, [Zhen Yang](https://zhenyangcs.github.io/), [Zide Liu](https://github.com/zideliu), [Hao Chen](https://scholar.google.com/citations?user=FaOqRpcAAAAJ)&#8224;, [Chunhua Shen](https://cshen.github.io/)&#8224; (*equal contribution, &#8224;corresponding author)
+[Ganggui Ding](dingangui.github.io)\*, [Canyu Zhao](https://volcverse.vercel.app)\*, [Wen Wang](https://github.com/encounter1997)\*, [Zhen Yang](https://zhenyangcs.github.io/), [Zide Liu](https://github.com/zideliu), [Hao Chen](https://scholar.google.com/citations?user=FaOqRpcAAAAJ)&#8224;, [Chunhua Shen](https://cshen.github.io/)&#8224; (*equal contribution, &#8224;corresponding author)
 
-[Project Page](https://aim-uofa.github.io/FreeCustom/docs) | [Paper(Todo)]()
+[Project Page](https://aim-uofa.github.io/FreeCustom/) | [Paper(Todo)]()
 
 ## Customized image generation
 ![results_of_multi_concept](docs/static/images/results_of_multi_concept.png)
