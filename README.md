@@ -2,7 +2,7 @@
 
 [Ganggui Ding](dingangui.github.io)\*, [Canyu Zhao](https://volcverse.vercel.app)\*, [Wen Wang](https://github.com/encounter1997)\*, [Zhen Yang](https://zhenyangcs.github.io/), [Zide Liu](https://github.com/zideliu), [Hao Chen](https://scholar.google.com/citations?user=FaOqRpcAAAAJ)&#8224;, [Chunhua Shen](https://cshen.github.io/)&#8224; (*equal contribution, &#8224;corresponding author)
 
-[Project Page](https://aim-uofa.github.io/FreeCustom/) | [Paper(Todo)]()
+[Project Page](https://aim-uofa.github.io/FreeCustom/) | [Paper](https://arxiv.org/abs/2405.13870)
 
 ## Customized image generation
 ![results_of_multi_concept](docs/static/images/results_of_multi_concept.png)
@@ -11,9 +11,15 @@ Our method excels at *rapidly* generating high-quality images with multiple conc
 
 ## Code will be released soon
 
-<!-- ### BibTeX
+## BibTeX
 
 ```bibtex
+@article{ding2024freecustom,
+  title={FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition},
+  author={Ding, Ganggui and Zhao, Canyu and Wang, Wen and Yang, Zhen and Liu, Zide and Chen, Hao and Shen, Chunhua},
+  journal={arXiv preprint arXiv:2405.13870},
+  year={2024}
+}
 
-``` -->
+```
 
