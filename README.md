@@ -14,10 +14,10 @@ Our method excels at *rapidly* generating high-quality images with multiple conc
 ## BibTeX
 
 ```bibtex
-@article{ding2024freecustom,
-  title={FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition},
-  author={Ding, Ganggui and Zhao, Canyu and Wang, Wen and Yang, Zhen and Liu, Zide and Chen, Hao and Shen, Chunhua},
-  journal={arXiv preprint arXiv:2405.13870},
+@inproceedings{ding2024freecustom,
+  title={FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition}, 
+  author={Ganggui Ding and Canyu Zhao and Wen Wang and Zhen Yang and Zide Liu and Hao Chen and Chunhua Shen},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024}
 }
 
