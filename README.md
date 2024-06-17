@@ -3,7 +3,7 @@
 <h1>FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition</h1>
 
 
-[Ganggui Ding](dingangui.github.io)\*, [Canyu Zhao](https://volcverse.vercel.app)\*, [Wen Wang](https://github.com/encounter1997)\*, [Zhen Yang](https://zhenyangcs.github.io/), [Zide Liu](https://github.com/zideliu), [Hao Chen](https://scholar.google.com/citations?user=FaOqRpcAAAAJ)&#8224;, [Chunhua Shen](https://cshen.github.io/)&#8224; 
+[Ganggui Ding](https://dingangui.github.io)\*, [Canyu Zhao](https://volcverse.vercel.app)\*, [Wen Wang](https://github.com/encounter1997)\*, [Zhen Yang](https://zhenyangcs.github.io/), [Zide Liu](https://github.com/zideliu), [Hao Chen](https://scholar.google.com/citations?user=FaOqRpcAAAAJ)&#8224;, [Chunhua Shen](https://cshen.github.io/)&#8224; 
 
 (*equal contribution, &#8224;corresponding author)
 
@@ -97,4 +97,4 @@ We thank to [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [Ma
 
 ## 📧 Contact
 
-If you have any comments or questions, please open a new issue or feel free to contact [Ganggui Ding](dingangui@zju.edu.cn).
+If you have any comments or questions, please open a new issue or feel free to contact [Ganggui Ding](https://dingangui.github.io) or mail to <dingangui@zju.edu.cn>.
