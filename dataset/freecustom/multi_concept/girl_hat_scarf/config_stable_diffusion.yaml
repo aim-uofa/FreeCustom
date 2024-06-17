@@ -1,0 +1,28 @@
+mark: ""
+
+model_path: "runwayml/stable-diffusion-v1-5"
+
+gpu: 1
+
+# feature injection setting
+start_step: 0
+end_step: 50
+layer_idx: [10,11,12,13,14,15]
+
+# set seeds
+seeds: [256,5030,8392,13765,40211,44927]
+
+# set reference image infos
+ref_image_infos: {
+  dataset/freecustom/multi_concept/girl_hat_scarf/image/girl.jpg: a photo of a girl,
+  dataset/freecustom/multi_concept/girl_hat_scarf/image/hat.jpg: a photo of a cat wearing a hat,
+  dataset/freecustom/multi_concept/girl_hat_scarf/image/scarf.jpg: a photo of a dog wearing a scarf,
+}
+target_prompt: "a photo of a girl wearing a scarf with a hat in her head"
+
+# ref image setting
+use_null_ref_prompts: False     # Whether or not to use an empty prompt when denoising reference images.
+mask_weights: [3.0, 3.0, 3.0]        # The larger the mask_weight is, the higher attention is for the reference image.
+
+negative_prompt: "lowres, bad anatomy, text, error, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry"
+style_fidelity: 1 # The larger the style_fidelity, the more like the reference concepts, range of values: [0,1]

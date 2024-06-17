@@ -1,0 +1,17 @@
+# Note: 
+# Before visualizing the attention map, you need to generate the result once in advance and then re-run with the same seed,
+# when visualizing the attention map, only one seed can be used at a time to ensure that the result is correct,
+# otherwise you may get an attention map that doesnt belongs to the corresponding seed,
+# same as when visualizing feature correspondence.
+
+# attention map visualization config
+viz_attention_map: False
+generated_image_path: 'results/20240324/15-10-03 dog_hat_sunglasses_0 "a dog with sunglasses wearing a red and black hat" /freecustom_2.png'  # replace this with your own generated image path
+viz_map_at_step:  [39, 49] # choose the inversion step for visualization, [0, 49]
+viz_map_at_layer: [12, 13] # choose the layer for visualization, [0, 15]
+
+# feature correspondence visualization config
+viz_feature_correspondence: False
+generated_mask_path: 'dataset/freecustom/multi_concept/dog_hat_sunglasses_0/generated_mask/freecustom_2.png'   # You'd better to generate a mask for the generated combined concept in advance, replace this with your own generated mask path
+viz_corr_at_step:  [29, 49]   # choose the inversion step for visualization, [0, 49]
+viz_corr_at_layer: [10, 11, 12, 13, 14, 15]   # choose the layer for visualization, [0, 15]
