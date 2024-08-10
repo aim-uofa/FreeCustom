@@ -76,8 +76,10 @@ Our method excels at *rapidly* generating high-quality images with multiple conc
 
 
 ## 🎫 License
+For non-commercial academic use, this project is licensed under [the 2-clause BSD License](https://opensource.org/license/bsd-2-clause). 
+For commercial use, please contact [Chunhua Shen](chhshen@gmail.com).
 
-The content of this project itself is licensed under [LICENSE](LICENSE).
+
 
 
 ## 🖊️ BibTeX
@@ -97,4 +99,4 @@ We thank to [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [Ma
 
 ## 📧 Contact
 
-If you have any comments or questions, please open a new issue or feel free to contact [Ganggui Ding](https://dingangui.github.io) or mail to <dingangui@zju.edu.cn>.
+If you have any technical comments or questions, please open a new issue or feel free to contact [Ganggui Ding](https://dingangui.github.io)
