@@ -1,0 +1,30 @@
+mark: ""
+
+model_path: "runwayml/stable-diffusion-v1-5"
+controlnet_model_path: "lllyasviel/sd-controlnet-canny"
+
+gpu: 1
+
+# feature injection setting
+start_step: 0
+end_step: 50
+layer_idx: [10,11,12,13,14,15]
+
+# set seeds
+seeds: [2,5,42]
+
+# controlnet condition
+canny_image_path: dataset/freecustom/controlnet/conditions/canny/teapot.jpg
+
+# set reference image infos
+ref_image_infos: {
+  dataset/freecustom/controlnet/reference_concept/teapot/image/teapot.jpg: a teapot,
+}
+target_prompt: "a teapot on a box"
+
+# ref image setting
+use_null_ref_prompts: False     # Whether or not to use an empty prompt when denoising reference images.
+mask_weights: [1.0]   # The larger the mask_weight is, the higher attention is for the reference image.
+
+negative_prompt: "lowres, bad anatomy, text, error, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry"
+style_fidelity: 1 # The larger the style_fidelity, the more like the reference concepts, range of values: [0,1]

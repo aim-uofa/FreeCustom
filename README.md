@@ -72,7 +72,7 @@ Our method excels at *rapidly* generating high-quality images with multiple conc
 - [x] Release FreeCustom on Stable Diffusion pipeline and running script
 - [x] Release FreeCustom on BLIP Diffusion pipeline
 - [ ] Release FreeCustom on BLIP Diffusion running script
-- [ ] Release FreeCustom on ControlNet pipeline and running script
+- [x] Release FreeCustom on ControlNet pipeline and running script
 
 
 ## 🎫 License
