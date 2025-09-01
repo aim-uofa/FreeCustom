@@ -77,7 +77,7 @@ Our method excels at *rapidly* generating high-quality images with multiple conc
 
 ## 🎫 License
 For non-commercial academic use, this project is licensed under [the 2-clause BSD License](https://opensource.org/license/bsd-2-clause). 
-For commercial use, please contact: [Chunhua Shen](mailto:chhshen@gmail.com)
+For commercial use, please contact: [Chunhua Shen](mailto:chhshen@gmail.com).
 
 
 
@@ -95,8 +95,8 @@ If you find this project useful in your research, please consider cite:
 ```
 
 ## 🙏 Acknowledgements
-We thank to [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [MasaCtrl](https://github.com/TencentARC/MasaCtrl), [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything), [HuggingFace](https://huggingface.co), [Prompt-to-Prompt](https://github.com/google/prompt-to-prompt), [ControlNet](https://github.com/lllyasviel/ControlNet)
+We thank to [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [MasaCtrl](https://github.com/TencentARC/MasaCtrl), [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything), [HuggingFace](https://huggingface.co), [Prompt-to-Prompt](https://github.com/google/prompt-to-prompt), and [ControlNet](https://github.com/lllyasviel/ControlNet).
 
 ## 📧 Contact
 
-If you have any technical comments or questions, please open a new issue or feel free to contact [Ganggui Ding](https://dingangui.github.io)
+If you have any technical comments or questions, please open a new issue or feel free to contact [Ganggui Ding](https://dingangui.github.io).
